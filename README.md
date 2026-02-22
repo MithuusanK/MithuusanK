@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I’m Mithuusan Kirupananthan, a Software Engineer focused on building scalable backend systems, data-driven applications, and cloud-integrated platforms.
+I’m Mithuusan Kirupananthan, a Full-Stack Software Engineer who enjoys building end-to-end applications!
 
 I recently completed my BSc (Honours) in Computer Science at Toronto Metropolitan University and have worked across data analytics, backend engineering, full-stack development, and DevOps environments, where I’ve designed production-grade APIs, SQL data pipelines, CI/CD workflows, and performance-optimized systems.
 
