@@ -1,11 +1,11 @@
 ## Hi there 👋
----
+
 I’m Mithuusan Kirupananthan, a Software Engineer focused on building scalable backend systems, data-driven applications, and cloud-integrated platforms.
 
 I recently completed my BSc (Honours) in Computer Science at Toronto Metropolitan University and have worked across data analytics, backend engineering, full-stack development, and DevOps environments, where I’ve designed production-grade APIs, SQL data pipelines, CI/CD workflows, and performance-optimized systems.
 
 ## 🔭 I’m currently working on 
----
+
 - Backend systems using Python (FastAPI) and Node.js
 - REST API design with structured validation and schema enforcement
 - SQL-based data pipelines and transformation workflows
@@ -14,14 +14,14 @@ I recently completed my BSc (Honours) in Computer Science at Toronto Metropolita
 - CI/CD automation and cloud-based deployment workflows
 
 ## 🌱 I’m currently learning
----
+
 - Distributed system design and system architecture patterns
 - Advanced database performance tuning and query optimization
 - Cloud-native infrastructure and containerized deployments
 - High-throughput backend service scalability strategies
 
 ## 📫 How to reach me
----
+
 - [LinkedIn](https://www.linkedin.com/in/mithuusan-kirupananthan-9b92261a5/)
 - [My Portfolio](https://mithuusan.netlify.app/)
 
